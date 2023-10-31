@@ -1,5 +1,6 @@
 # Data-Encryption-using-AWS-KMS-From-UST-by-Ameer-Suhail
-# Data Encryption using AWS KMS - Project Summary
+
+# Project Summary
 
 ## Introduction
 Welcome to the project on "Data Encryption using AWS KMS." I'm Ameer Suhail, and I will show you the project summary.
